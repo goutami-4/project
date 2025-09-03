@@ -10,7 +10,6 @@ label {
 		
 	stages {
 
-		
 		stage ('CLEAN_OLD_M2') {
 			
 			steps {
